@@ -52,7 +52,7 @@
 	border-top-right-radius:45px;
 	border-bottom-left-radius:45px;
 	border-bottom-right-radius:45px;
-	background-image:url(img/image_1.png);
+	background-image:url(static/img/image_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -133,7 +133,7 @@
 	position:absolute;
 	left:677px;
 	top:0px;
-	background-image:url(rezerv_t.png);
+	background-image:url(static/rezerv_t.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -289,7 +289,7 @@
 	border-top-right-radius:15px;
 	border-bottom-left-radius:15px;
 	border-bottom-right-radius:15px;
-	background-image:url(img/image_2.png);
+	background-image:url(static/img/image_2.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -412,7 +412,7 @@
 	border-top-right-radius:15px;
 	border-bottom-left-radius:15px;
 	border-bottom-right-radius:15px;
-	background-image:url(img/image_4.png);
+	background-image:url(static/img/image_4.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
@@ -496,7 +496,7 @@
 	border-top-right-radius:15px;
 	border-bottom-left-radius:15px;
 	border-bottom-right-radius:15px;
-	background-image:url(img/image_3.png);
+	background-image:url(static/img/image_3.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 }
